@@ -1,6 +1,6 @@
 # SSOO-tarea01
 
-Matias Zapata Maripán
+Matias Zapata Maripán, matias.zapata@alumnos.uv.cl
 
 este codigo tiene 3 funciones (ademas de main):
 La primera es tiempoactual(), utilizada para retornar una cadena con la fecha y hora actual del computador.
